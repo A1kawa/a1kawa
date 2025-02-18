@@ -90,10 +90,7 @@ Currently, I'm **`fully focused on Front-End development`**, where I aim to refi
     src="https://github-readme-stats.vercel.app/api?username=a1kawa&hide=stars,contribs&theme=date_night&include_all_commits=true"
 />
 
----
-
 <img 
-    align="left" 
     alt="unreal" 
     height = 160
     style="padding-right: 10px;" 
