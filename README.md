@@ -84,14 +84,14 @@ Currently, I'm **`fully focused on Front-End development`**, where I aim to refi
 
 <img 
     align="left" 
-    alt="unreal" 
+    alt="leftStats" 
     height = 160
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=a1kawa&hide=stars,contribs&theme=date_night&include_all_commits=true"
 />
 
 <img 
-    alt="unreal" 
+    alt="rightStats" 
     height = 160
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1kawa&theme=date_night&layout=compact"
